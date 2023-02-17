@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\bin\Debug\netcoreapp3.1\tex_lab.8.exe
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\bin\Debug\netcoreapp3.1\tex_lab.8.deps.json
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\bin\Debug\netcoreapp3.1\tex_lab.8.runtimeconfig.json
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\bin\Debug\netcoreapp3.1\tex_lab.8.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\bin\Debug\netcoreapp3.1\tex_lab.8.dll
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\bin\Debug\netcoreapp3.1\tex_lab.8.pdb
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\obj\Debug\netcoreapp3.1\tex_lab.8.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\obj\Debug\netcoreapp3.1\tex_lab.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\obj\Debug\netcoreapp3.1\tex_lab.8.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\obj\Debug\netcoreapp3.1\tex_lab.8.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\obj\Debug\netcoreapp3.1\tex_lab.8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\obj\Debug\netcoreapp3.1\tex_lab.8.dll
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\obj\Debug\netcoreapp3.1\tex_lab.8.pdb
+C:\Users\Lenovo\source\repos\tex_lab.8\tex_lab.8\obj\Debug\netcoreapp3.1\tex_lab.8.genruntimeconfig.cache
